@@ -6,3 +6,8 @@
 ``` python
 variable = "Hello World!"
 ```
+
+- [ ] Say Hello to the World
+- [ ] Edit my GitHub
+- [ ] Add a profile picture
+
